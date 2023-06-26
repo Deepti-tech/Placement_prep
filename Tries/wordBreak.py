@@ -37,7 +37,7 @@ def checkWordBreak(trie, word):
     return False
     
 if __name__ == '__main__':
-    wrd = "thequickbrownfox",
+    wrd = "thequickbrownfox"
     keys = ["the", "quick", "fox", "brown"]
     trie = Trie()
     for key in keys:
