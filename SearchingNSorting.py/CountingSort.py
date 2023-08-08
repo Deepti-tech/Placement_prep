@@ -16,5 +16,5 @@ def counting_sort(arr):
     
     return output
 
-arr = [1,4,1,2,7,5,2] 
+arr = [1,4,1,2,9,7,5,2] 
 print(counting_sort(arr))
